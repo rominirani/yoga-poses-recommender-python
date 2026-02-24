@@ -1,8 +1,8 @@
 project_id: your-project-id
 location: us-central1
-gemini_model_name: gemini-1.5-flash-002
-embedding_model_name: text-embedding-004
-image_generation_model_name: imagen-3.0-fast-generate-002
+gemini_model_name: gemini-3-flash
+embedding_model_name: gemini-embedding-001
+image_generation_model_name: imagen-4.0-fast-generate-001
 database: (default)
 collection: poses
 test_collection: test-poses
